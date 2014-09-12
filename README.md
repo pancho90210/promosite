@@ -1,0 +1,4 @@
+promosite
+=========
+
+Promosite for SmartDoll
